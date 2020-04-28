@@ -1,0 +1,1 @@
+Put training data images in this folder so that the algorithm can recognize people from webcam stream (must be in .png format).
